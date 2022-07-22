@@ -1,2 +1,2 @@
-# site-progmem.github.io
+# progMem
 progMem - склад бесплатных популярных программ!
